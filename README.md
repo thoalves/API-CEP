@@ -1,2 +1,2 @@
 # API-CEP
-Código criado em aula sobre API
+Implementando API de CEP.
